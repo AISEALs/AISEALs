@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "dlserver.grpc.example";
+option java_outer_classname = "DLProto";
+option objc_class_prefix = "RTG";
+
+//import "tensorflow/core/example/example.proto";
+import "example.proto";
+
+package dlserver;
+
+// Interface exported by the server.
+service ExamplesDLServer {
+  // A simple RPC.
+  rpc GetOutputs(DLRequest) returns (Example) {}
+}
+
+message ExampleList {
+  repeated Example examples = 1;
+}
+
+message DLRequest {
+    string task_id = 1;
+    ExampleList example_list = 2;
+}

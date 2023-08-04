@@ -1,0 +1,4 @@
+pytorch 1.8.0
+transformers 4.8.1
+timm 0.4.9
+ruamel_yaml

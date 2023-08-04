@@ -1,0 +1,5 @@
+fasttext-github=0.8.22
+pandas
+numpy
+sklearn
+grpc

@@ -1,0 +1,112 @@
+load class file over, num: 11 labels: ['心情_情绪_想法表达', '找对象', '找工作', '亲人失联', '征婚', '生活压力', '职场人际关系_矛盾', '职业规划_择业', '找老乡', '租房经历_经验', '招人_雇佣']
+
+cate_name: 心情_情绪_想法表达 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  30894
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  670934 lr:  0.000000 loss:  0.073972 ETA:   0h 0m
+model_name: 心情_情绪_想法表达
+N	3968
+P@1	0.785
+R@1	0.785
+-------------save model:model/fasttext/fasttext_model_心情_情绪_想法表达.bin---------------
+cate_name: 找对象 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  26994
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  487273 lr:  0.000000 loss:  0.062314 ETA:   0h 0m
+model_name: 找对象
+N	4104
+P@1	0.831
+R@1	0.831
+-------------save model:model/fasttext/fasttext_model_找对象.bin---------------
+cate_name: 找工作 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  26572
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  754388 lr:  0.000000 loss:  0.062817 ETA:   0h 0m
+model_name: 找工作
+N	4082
+P@1	0.826
+R@1	0.826
+-------------save model:model/fasttext/fasttext_model_找工作.bin---------------
+cate_name: 亲人失联 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  39629
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  666022 lr:  0.000000 loss:  0.028553 ETA:   0h 0m
+model_name: 亲人失联
+N	4094
+P@1	0.899
+R@1	0.899
+-------------save model:model/fasttext/fasttext_model_亲人失联.bin---------------
+cate_name: 征婚 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  28088
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  549353 lr:  0.000000 loss:  0.030113 ETA:   0h 0m
+model_name: 征婚
+N	4118
+P@1	0.933
+R@1	0.933
+-------------save model:model/fasttext/fasttext_model_征婚.bin---------------
+cate_name: 生活压力 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  28232
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  397036 lr:  0.000000 loss:  0.052154 ETA:   0h 0m
+model_name: 生活压力
+N	3969
+P@1	0.871
+R@1	0.871
+-------------save model:model/fasttext/fasttext_model_生活压力.bin---------------
+cate_name: 职场人际关系_矛盾 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  31679
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  758289 lr:  0.000000 loss:  0.067310 ETA:   0h 0m
+model_name: 职场人际关系_矛盾
+N	3897
+P@1	0.791
+R@1	0.791
+-------------save model:model/fasttext/fasttext_model_职场人际关系_矛盾.bin---------------
+cate_name: 职业规划_择业 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  27898
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  751405 lr:  0.000000 loss:  0.062912 ETA:   0h 0m
+model_name: 职业规划_择业
+N	3962
+P@1	0.821
+R@1	0.821
+-------------save model:model/fasttext/fasttext_model_职业规划_择业.bin---------------
+cate_name: 找老乡 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  26010
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  773576 lr:  0.000000 loss:  0.027260 ETA:   0h 0m
+model_name: 找老乡
+N	4096
+P@1	0.927
+R@1	0.927
+-------------save model:model/fasttext/fasttext_model_找老乡.bin---------------
+cate_name: 租房经历_经验 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  28389
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  435187 lr:  0.000000 loss:  0.012581 ETA:   0h 0m
+model_name: 租房经历_经验
+N	4046
+P@1	0.971
+R@1	0.971
+-------------save model:model/fasttext/fasttext_model_租房经历_经验.bin---------------
+cate_name: 招人_雇佣 lines num: 10000 total lines num: 20000
+Read 0M words
+Number of words:  28860
+Number of labels: 2
+Progress: 100.0% words/sec/thread:  449260 lr:  0.000000 loss:  0.054039 ETA:   0h 0m
+model_name: 招人_雇佣
+N	4001
+P@1	0.814
+R@1	0.814
+-------------save model:model/fasttext/fasttext_model_招人_雇佣.bin---------------

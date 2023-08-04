@@ -1,0 +1,55 @@
+data_time:'2021_11_28_10' |report_sample_num = 4727808 |commenttime_loss = 0.063374
+data_time:'2021_11_28_10' |report_sample_nuwcomment_lossm = 4727143 |feedback_auc = 0.970127 |predict_avg=0.000106 |real_avg=0.000109 |copc=1.019657
+data_time:'2021_11_28_10' |report_sample_num = 4727808 |feedback_loss = 0.000658
+data_time:'2021_11_28_10' |report_sample_num = 4727143 |follow_auc = 0.961823 |predict_avg=0.004345 |real_avg=0.003902 |copc=0.898001
+data_time:'2021_11_28_10' |report_sample_num = 4727808 |follow_loss = 0.013408
+data_time:'2021_11_28_10' |report_sample_num = 4727143 |praise_auc = 0.949869 |predict_avg=0.018479 |real_avg=0.018650 |copc=1.009256
+data_time:'2021_11_28_10' |report_sample_num = 4727808 |praise_loss = 0.043920
+data_time:'2021_11_28_10' |report_sample_num = 4727143 |rcomment_auc = 0.919149 |predict_avg=0.144915 |real_avg=0.133187 |copc=0.919068
+data_time:'2021_11_28_10' |report_sample_num = 4727808 |rcomment_loss = 0.020512
+data_time:'2021_11_28_10' |report_sample_num = 4727143 |share_auc = 0.949751 |predict_avg=0.002555 |real_avg=0.002543 |copc=0.994987
+data_time:'2021_11_28_10' |report_sample_num = 4727808 |share_loss = 0.010551
+data_time:'2021_11_28_10' |report_sample_num = 4727143 |wcomment_auc = 0.974530 |predict_avg=0.001286 |real_avg=0.000993 |copc=0.772447
+data_time:'2021_11_28_10' |report_sample_num = 4727808 |wcomment_loss = 0.004950
+
+data_time:'2021_11_28_11' |report_sample_num = 5061248 |commentTime_loss = 0.064817
+data_time:'2021_11_28_11' |report_sample_num = 5060694 |feedback_auc = 0.948992 |predict_avg=0.000103 |real_avg=0.000098 |copc=0.951278
+data_time:'2021_11_28_11' |report_sample_num = 5061248 |feedback_loss = 0.003545
+data_time:'2021_11_28_11' |report_sample_num = 5060694 |follow_auc = 0.955352 |predict_avg=0.004273 |real_avg=0.003825 |copc=0.895088
+data_time:'2021_11_28_11' |report_sample_num = 5061248 |follow_loss = 0.014496
+data_time:'2021_11_28_11' |report_sample_num = 5060694 |praise_auc = 0.936295 |predict_avg=0.018215 |real_avg=0.018317 |copc=1.005562
+data_time:'2021_11_28_11' |report_sample_num = 5061248 |praise_loss = 0.047789
+data_time:'2021_11_28_11' |report_sample_num = 5060694 |rcomment_auc = 0.915103 |predict_avg=0.140064 |real_avg=0.129395 |copc=0.923830
+data_time:'2021_11_28_11' |report_sample_num = 5061248 |rcomment_loss = 0.020682
+data_time:'2021_11_28_11' |report_sample_num = 5060694 |share_auc = 0.936080 |predict_avg=0.002526 |real_avg=0.002407 |copc=0.952868
+data_time:'2021_11_28_11' |report_sample_num = 5061248 |share_loss = 0.011427
+data_time:'2021_11_28_11' |report_sample_num = 5060694 |wcomment_auc = 0.960507 |predict_avg=0.001233 |real_avg=0.000946 |copc=0.767268
+data_time:'2021_11_28_11' |report_sample_num = 5061248 |wcomment_loss = 0.005128
+
+data_time:'2021_11_28_12' |report_sample_num = 5339264 |commentTime_loss = 0.065443
+data_time:'2021_11_28_12' |report_sample_num = 5338655 |feedback_auc = 0.952467 |predict_avg=0.000106 |real_avg=0.000093 |copc=0.880499
+data_time:'2021_11_28_12' |report_sample_num = 5339264 |feedback_loss = 0.000925
+data_time:'2021_11_28_12' |report_sample_num = 5338655 |follow_auc = 0.951630 |predict_avg=0.004036 |real_avg=0.003533 |copc=0.875340
+data_time:'2021_11_28_12' |report_sample_num = 5339264 |follow_loss = 0.014922
+data_time:'2021_11_28_12' |report_sample_num = 5338655 |praise_auc = 0.934041 |predict_avg=0.017821 |real_avg=0.017980 |copc=1.008929
+data_time:'2021_11_28_12' |report_sample_num = 5339264 |praise_loss = 0.047880
+data_time:'2021_11_28_12' |report_sample_num = 5338655 |rcomment_auc = 0.915750 |predict_avg=0.140268 |real_avg=0.130404 |copc=0.929679
+data_time:'2021_11_28_12' |report_sample_num = 5339264 |rcomment_loss = 0.020885
+data_time:'2021_11_28_12' |report_sample_num = 5338655 |share_auc = 0.934193 |predict_avg=0.002391 |real_avg=0.002188 |copc=0.914774
+data_time:'2021_11_28_12' |report_sample_num = 5339264 |share_loss = 0.010091
+data_time:'2021_11_28_12' |report_sample_num = 5338655 |wcomment_auc = 0.960202 |predict_avg=0.001270 |real_avg=0.000991 |copc=0.780591
+data_time:'2021_11_28_12' |report_sample_num = 5339264 |wcomment_loss = 0.005358
+
+data_time:'2021_11_28_13' |report_sample_num = 5403520 |commentTime_loss = 0.061109
+data_time:'2021_11_28_13' |report_sample_num = 5403108 |feedback_auc = 0.946996 |predict_avg=0.000106 |real_avg=0.000093 |copc=0.875512
+data_time:'2021_11_28_13' |report_sample_num = 5403520 |feedback_loss = 0.000647
+data_time:'2021_11_28_13' |report_sample_num = 5403108 |follow_auc = 0.948875 |predict_avg=0.004071 |real_avg=0.003460 |copc=0.850051
+data_time:'2021_11_28_13' |report_sample_num = 5403520 |follow_loss = 0.013565
+data_time:'2021_11_28_13' |report_sample_num = 5403108 |praise_auc = 0.933159 |predict_avg=0.018506 |real_avg=0.018468 |copc=0.997914
+data_time:'2021_11_28_13' |report_sample_num = 5403520 |praise_loss = 0.050361
+data_time:'2021_11_28_13' |report_sample_num = 5403108 |rcomment_auc = 0.916811 |predict_avg=0.139762 |real_avg=0.128278 |copc=0.917829
+data_time:'2021_11_28_13' |report_sample_num = 5403520 |rcomment_loss = 0.020503
+data_time:'2021_11_28_13' |report_sample_num = 5403108 |share_auc = 0.927816 |predict_avg=0.002410 |real_avg=0.002149 |copc=0.891357
+data_time:'2021_11_28_13' |report_sample_num = 5403520 |share_loss = 0.010011
+data_time:'2021_11_28_13' |report_sample_num = 5403108 |wcomment_auc = 0.960862 |predict_avg=0.001299 |real_avg=0.000892 |copc=0.687027
+data_time:'2021_11_28_13' |report_sample_num = 5403520 |wcomment_loss = 0.004954

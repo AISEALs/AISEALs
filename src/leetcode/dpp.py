@@ -25,9 +25,9 @@ class DPPModel(object):
         self.last_ids = []
 
     def build_kernel_matrix(self):
-        rank_score = np.random.random(size=(self.item_count))/10**29     # 用户和每个item的相关性
+        rank_score = np.random.random(size=(self.item_count)) / 10 ** 29  # 用户和每个item的相关性
         for i in range(5):
-            rank_score[i] *= (3 * 10**29)
+            rank_score[i] *= (3 * 10 ** 29)
         item_embedding = np.random.randn(self.item_count, self.item_embed_size)  # item的embedding
         item_embedding = item_embedding / np.linalg.norm(item_embedding, axis=1, keepdims=True)
         sim_matrix = np.dot(item_embedding, item_embedding.T)  # item之间的相似度矩阵
